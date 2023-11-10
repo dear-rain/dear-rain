@@ -1,5 +1,5 @@
 ## Hi there 👋
-- AGI招聘：
+AGI招聘：
 - 1、定义模型能力天花板的预训练框架（Pre-train）技术
 - 2、精进模型实现能力的 Post-train技术
 - 3、支撑模型高效训练的 AI Infra技术
