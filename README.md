@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on recruitment
 - AGI招聘：
 - 1、定义模型能力天花板的预训练框架（Pre-train）技术
 - 2、精进模型实现能力的 Post-train技术
